@@ -1,0 +1,20 @@
+%estiloPrincipal{
+    background-color: $turquesa;
+    color: $violeta;
+    font-family: $tipografia-principal;
+    text-align: center;
+    p{
+        max-width: 60vw;
+        margin: 0 auto;
+    }
+}
+
+//MIXIN
+
+@mixin estiloTexto ($size){
+    font-size: $size;
+    font-family: $tipografia-principal;
+    font-weight: 900;
+    font-style: italic;
+    color: $rosa;
+}

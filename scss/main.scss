@@ -4,4 +4,10 @@
     box-sizing: border-box;
 }
 
+
+@import "./variables/colores";
+@import "./variables/typo";
+@import "./variables/extend";
+
 @import "./sections/header";
+@import "./sections/mainIndex"
