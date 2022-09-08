@@ -1,0 +1,3 @@
+Agregué estas keywords: "Maquillaje, brochas, sombras, labial"
+Todas las paginas tienen títulos.
+Usé los Mixin para las mediaquerys
